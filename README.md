@@ -1,4 +1,10 @@
-History of Word Embedding
+# DeepTweets
+
+## Real or Not? NLP with Disaster Tweets
+
+Link: https://www.kaggle.com/c/nlp-getting-started
+
+History of Word Embeddings
 
 Traditionally, we use bag-of-word to represent a feature (e.g. TF-IDF or Count Vectorize). Besides BoW, we can apply LDA or LSA on word feature. However, they have some limitations such as high dimensional vector, sparse feature. Word Embedding is a dense feature in low dimensional vector. It is proved that word embedding provides a better vector feature on most of NLP problem.
 
