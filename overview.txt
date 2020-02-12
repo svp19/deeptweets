@@ -1,0 +1,15 @@
+
+History of Word Embedding
+Traditionally, we use bag-of-word to represent a feature (e.g. TF-IDF or Count Vectorize). Besides BoW, we can apply LDA or LSA on word feature. However, they have some limitations such as high dimensional vector, sparse feature. Word Embedding is a dense feature in low dimensional vector. It is proved that word embedding provides a better vector feature on most of NLP problem.
+In 2013, Mikolov et al. made Word Embedding popular. Eventually, word embedding is state-of-the-art in NLP. He released the word2vec toolkit and allowing us to enjoy the wonderful pre-trained model. Later on, gensim provide a amazing wrapper so that we can adopt different pre-trained word embedding models which including Word2Vec (by Google), GloVe (by Stanford), fastText (by Facebook).
+12 years before Tomas et al. introduces Word2Vec, Bengio et al. published a paper [1] to tackle language modeling and it is the initial idea of word embedding. At that time, they named this process as “learning a distributed representation for words”.
+
+2001: Bengio et al. introduced a concept of word embedding
+2008: Ronan and Jason introduced a concept of pre-trained model
+2013: Mikolov et al. released pre-trained model which is Word2Vec
+
+Approaches - 
+
+* Bag of Words, N-grams, and their TF-IDF.
+* Attempt to use ConvNets(Zhang and LeCun, 2015)
+

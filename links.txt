@@ -1,0 +1,4 @@
+https://towardsdatascience.com/besides-word-embedding-why-you-need-to-know-character-embedding-6096a34a3b10
+https://machinelearningmastery.com/gentle-introduction-bag-words-model/
+https://fasttext.cc/
+https://towardsdatascience.com/learning-generic-sentence-representation-by-various-nlp-tasks-df39ce4e81d7
