@@ -19,9 +19,9 @@ In 2013, Mikolov et al. made Word Embedding popular. Eventually, word embedding 
 Approaches - 
 
 * Bag of Words, N-grams, and their TF-IDF.
+* Shallow Neural Net
 * Attempt to use ConvNets(Zhang and LeCun, 2015)
 * CNNs for Sentence Classification, Yoon Kim
-* Shallow Neural Net
 * Very Deep CNN Architecture, Facebook AI Research
 * Fine tuning of BERT for text classification.  
 
@@ -37,4 +37,15 @@ Dataset
 
 Toolkit
     Tensorflow, sklearn
+    
+# Dataset Analysis
+7613 examples for training
+3263 examples for testing
+
+
+
+# Dataset Cleaning
+- Replace all capital letters with small letters
+- Removed all punctuation marks
+- Remove URLs, Emojis and html text
 
