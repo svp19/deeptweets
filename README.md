@@ -49,3 +49,12 @@ Toolkit
 - Removed all punctuation marks
 - Remove URLs, Emojis and html text
 
+
+# Text encoding
+1. Character Level Encoding
+2. Word level Encoding
+- Bag of Words
+- Glove
+3. Sentence Level Encoding
+- Google Universal Sentence Encoder
+
